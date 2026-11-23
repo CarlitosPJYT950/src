@@ -1,3 +1,4 @@
+<?php
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -52,3 +53,4 @@
     <script src="script.php"></script>
 </body>
 </html>
+?>
