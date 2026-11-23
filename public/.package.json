@@ -1,0 +1,32 @@
+{
+    "Fugue": {
+        "Coda": "T",
+        "Episodio": "",
+        "T": "Episodio",
+        "Desarrollo": {
+            "Contratema": [
+                "CT1",
+                "CT2"
+            ],
+            "Tema": "T"
+        },
+        "Exposicion": {
+            "Contratema": [
+                "CT1",
+                "CT2"
+            ],
+            "Entrada": [
+                "Complementaria",
+                "EC"
+            ],
+            "Tema": "T"
+        },
+        "Re-Exposicion": {
+            "Contratema": [
+                "CT1",
+                "CT2"
+            ],
+            "Tema": "T"
+        }
+    }
+}
